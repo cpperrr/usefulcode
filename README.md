@@ -24,4 +24,8 @@
   
   
 # binfile
-* readbinapi.cs
+* 文件概述
+  * readbinapi.cs
+* 函数功能描述
+  * 读取bin文件后转换成2维数组（1维参数是section长度，2维参数是每个section对应的数据）
+  * bin文件和hex文件读取方法不一样
